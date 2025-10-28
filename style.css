@@ -68,6 +68,7 @@ button {
   white-space: nowrap;
   cursor: pointer;
   transition: all 0.3s;
+  
 }
 
 button:active,
@@ -96,5 +97,5 @@ font-size: 30px;
 color: red;
 }
 ::selection{
-    background: yellow;
+    background: rgb(176, 78, 36);
 }
